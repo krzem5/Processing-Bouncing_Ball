@@ -1,1 +1,3 @@
-start "" "projects/Processing-Bouncing_Ball/index/index.pde"
+@echo off
+cls
+python build.py %*
